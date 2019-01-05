@@ -1,7 +1,7 @@
 # -Hex-Shards
 Create shards directory
 
-Example:E:\HanBot\release\lol-cn\shards
+Example:E:\HanBot\release\lol-na\shards
 
 put .obj file in the shards dir
 
