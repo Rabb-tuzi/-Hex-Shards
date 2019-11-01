@@ -1,4 +1,6 @@
+
 # Hex-Shards
+# [CN Server is not supported.]
 * Create shards folder
 
 * Example:E:\HanBot\release\lol-nd\shards
