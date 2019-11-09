@@ -37,6 +37,7 @@
 > * Rengar
 > * Riven
 > * Ryze
+> * Senna
 > * Sion
 > * TahmKench
 > * Thresh
